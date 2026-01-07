@@ -5,6 +5,7 @@ Hello, World!<br>
 ᎣᏏᏲ ᎡᎶᎯ<br>
 你好世界!<br>
 Здраво, Свете!<br>
+Здравствуй, мир!<br>
 Բարե՛ւ, աշխարհ։<br>
 𒀭𒊏𒁲𒀭𒊏𒁲! 𒅴𒋼𒀭𒊏𒁲𒀭𒊏𒁲!<br>
 สวัสดีโลก!<br>
@@ -17,8 +18,9 @@ Su’mae, Byd!<br>
 .... . .-.. .-.. --- --..-- / .-- --- .-. .-.. -.. -.-.--<br>
 გამარჯობა სამყაროს!<br>
 Γειά σου Κόσμε!<br>
+أهلاً بالعالم<br>
 Mido gbe na Xexeame!<br>
-
+Saluton mondo!<br>
 <img width="334" height="90" alt="suilad-amar-annatar" src="https://github.com/user-attachments/assets/cd62ec35-1b1c-4156-b220-3b542ac77b96" />
 
 <!--
